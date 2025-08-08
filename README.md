@@ -1,4 +1,4 @@
-````markdown
+
 # ID Generator Module
 
 A simple, flexible JavaScript module to generate unique IDs with customizable length, character set, and optional prefix.
@@ -100,4 +100,3 @@ Mohammad Amin
 [GitHub](https://github.com/mohamad-slime)
 
 ---
-````
