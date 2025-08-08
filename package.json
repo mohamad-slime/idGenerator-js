@@ -1,0 +1,12 @@
+{
+    "name": "id-generator",
+    "version": "1.0.0",
+    "description": "Generates a unique ID.",
+    "type": "module",
+    "main": "idGenerator.js",
+    "keywords": [
+        "id",
+        "generator",
+        "unique"
+    ]
+}
