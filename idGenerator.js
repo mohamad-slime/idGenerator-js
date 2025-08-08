@@ -8,8 +8,7 @@
 
 export function generateId(
   length = 6,
-  chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789" ??
-    "",
+  chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
   prefix = "",
 ) {
   let id = "";
