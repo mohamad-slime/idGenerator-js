@@ -1,12 +1,27 @@
 {
     "name": "id-generator",
     "version": "1.0.0",
-    "description": "Generates a unique ID.",
+    "description": "A simple, flexible JavaScript module to generate unique IDs with customizable length, character set, and optional prefix.",
     "type": "module",
     "main": "idGenerator.js",
     "keywords": [
         "id",
         "generator",
-        "unique"
-    ]
+        "unique",
+        "random",
+        "identifier"
+    ],
+    "author": {
+        "name": "Mohammad Amin",
+        "url": "https://github.com/mohamad-slime"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mohamad-slime/idGenerator-js.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "start": "node main.js",
+        "test": "node test.js"
+    }
 }
